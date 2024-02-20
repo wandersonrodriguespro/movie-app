@@ -66,7 +66,7 @@ export const apiData = {
       description:
         "Após formar uma família, Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve travar uma guerra difícil contra os humanos.",
       imageSmall: "https://br.web.img2.acsta.net/c_310_420/pictures/22/05/09/16/16/3197518.jpg",
-      imageBanner: "https://f.i.uol.com.br/fotografia/2022/12/13/16709656296398e97dadef4_1670965629_3x2_lg.jpg",
+      imageBanner: "https://www.correiodopovo.com.br/image/contentid/policy:1.916852:1677789875/AvatarOCaminhodaAgua-Poster.jpg?f=2x1&$p$f=b93ab3d&w=2400&$w=d2ad2f2",
       linkVideo: "QxJQbWOIK4s",
       category: "movies",
     },
